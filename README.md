@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello,  I'm Janna! 👋
+
+## I'm just having a go
 
 <!--
 **Janna263/Janna263** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
